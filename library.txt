@@ -1,0 +1,17 @@
+# Before using this project, install this dependencies from your terminal
+
+1. node_modules
+npm install
+# This will give you all the dependencies for this Vite + React project.
+
+2. animate.css
+npm install animate.css --save
+
+3. react-boostrap
+npm install react-bootstrap bootstrap
+
+4. react-router-dom
+npm install react-router-dom
+
+After that, run this from your terminal:
+npm run dev
